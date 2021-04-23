@@ -12,6 +12,7 @@ GEM
     nokogiri (1.11.3-x86_64-linux)
       racc (~> 1.4)
     racc (1.5.2)
+    rubycop (1.0.1)
 
 PLATFORMS
   x86_64-linux
@@ -20,6 +21,10 @@ DEPENDENCIES
   byebug
   httparty
   nokogiri
+  rubycop
+
+RUBY VERSION
+   ruby 2.7.1p83
 
 BUNDLED WITH
    2.2.16
